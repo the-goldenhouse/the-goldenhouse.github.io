@@ -14,7 +14,7 @@
   "nombre": "Cadena Tourbillon",
   "categoria": "cadenas premium",
   "material": "Enchapado oro 18k",
-  "precio": 105000,
+  "precio": 99000,
   "imagen": "img/tourbillon.png",
   "descripcion": "Eslabones entrelazados con efecto de movimiento. Se luce sola.",
   "destacado": false
@@ -24,7 +24,7 @@
   "nombre": "Triple Gourmet",
   "categoria": "cadenas premium",
   "material": "Enchapado oro 18k",
-  "precio": 100000,
+  "precio": 99000,
   "imagen": "img/triple gourmet.png",
   "descripcion": "Tres hileras de eslabones gourmet. Cada uno resalta con el brillo dorado.",
   "destacado": false
@@ -81,12 +81,12 @@
   "destacado": false
 },
 {
-  "id": "patek-plateado",
-  "nombre": "Patek Plateado",
+  "id": "casio-plateado-rosa",
+  "nombre": "Casio Plateado y Rosa",
   "categoria": "relojes",
   "material": "",
-  "precio": 80000,
-  "imagen": "img/patek-plateado.jpeg",
+  "precio": 60000,
+  "imagen": "img/casio-plateado-rosa.jpeg",
   "descripcion": "Versión plateada, discreta y versátil.",
   "destacado": false
 },
@@ -95,7 +95,7 @@
   "nombre": "Van Cleef Blanca y Negra",
   "categoria": "pulseras",
   "material": "",
-  "precio": 40000,
+  "precio": 18000,
   "imagen": "img/van-cleef-blanca-negra.jpeg",
   "descripcion": "Blanco y negro combinados, pensada para ir con todo.",
   "destacado": false
@@ -115,7 +115,7 @@
   "nombre": "Cadena Van Cleef blanca",
   "categoria": "cadenas premium",
   "material": "",
-  "precio": 40000,
+  "precio": 20000,
   "imagen": "img/cadena-van-cleef-blanca.jpeg",
   "descripcion": "Cadena fina con dijes en blanco, de caída liviana.",
   "destacado": false
@@ -125,7 +125,7 @@
   "nombre": "Cadena Van Cleef negra",
   "categoria": "cadenas premium",
   "material": "",
-  "precio": 40000,
+  "precio": 20000,
   "imagen": "img/cadena-van-cleef-negra.jpeg",
   "descripcion": "La misma línea, en versión negra.",
   "destacado": false
