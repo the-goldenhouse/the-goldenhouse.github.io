@@ -4,7 +4,7 @@
 
 // Cambiá este número por el de la cuenta de WhatsApp del emprendimiento.
 // Formato: código de país + área sin el 0 + número sin el 15.
-const WHATSAPP = "5491100000000";
+const WHATSAPP = "5491138920753";
 
 const grilla   = document.getElementById("grilla");
 const estado   = document.getElementById("estado");
